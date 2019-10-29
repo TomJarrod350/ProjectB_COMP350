@@ -1,7 +1,7 @@
 ;kernel.asm
 ;Michael Black, 2007
 
-;Thomas O'Leary
+;Thomas OLeary
 ;Jarrod LeComte
 
 ;kernel.asm contains assembly functions that you can use in your kernel
