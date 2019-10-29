@@ -1,4 +1,4 @@
-;Thomas O'Leary
+;Thomas OLeary
 ;Jarrod LeComte
 
 void printString(char*);
